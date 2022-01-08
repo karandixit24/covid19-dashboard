@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/covid19-dashboard/static/css/main.b72ab6f1.css",
+    "main.js": "/covid19-dashboard/static/js/main.a9076882.js",
+    "static/media/corona.jpg": "/covid19-dashboard/static/media/corona.52d5858a78ea9b722818.jpg",
+    "index.html": "/covid19-dashboard/index.html",
+    "main.b72ab6f1.css.map": "/covid19-dashboard/static/css/main.b72ab6f1.css.map",
+    "main.a9076882.js.map": "/covid19-dashboard/static/js/main.a9076882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b72ab6f1.css",
+    "static/js/main.a9076882.js"
+  ]
+}
